@@ -1,0 +1,22 @@
+1.Start a mini project Console ERP system. Initialize git in this project.
+	-Add Employee
+	-Delete Employee
+	-Search Employee
+	-Change Employee Data
+	-Display 
+Notes for Q1:
+Output of display should be like
+1.Sid
+2.Bhargav
+3.Raja
+Check if user have entered or not(Check for None)
+
+Optional(Advanced)
+1.Create a small fruit shop software
+-Add fruit
+-Delete fruit by name
+-Search fruit by name and rate
+-Change fruit name and rate
+-Display
+Here store Fruit name and rate together in nested list
+[[Apple,10],[mango,20]]
