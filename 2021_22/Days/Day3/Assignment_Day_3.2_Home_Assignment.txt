@@ -1,0 +1,33 @@
+Projects Assignment:
+1.Console ERP project
+Implement using dictionary:
+	-Add Employee
+	-Delete Employee
+	-Search Employee by name
+	-Change Employee Data
+		=>Change name
+		=>change age
+		=>Change gender
+		=>change salary
+	-Display 
+
+Properties:Empid, Name,age,gender,place,salary,previous_company,joining_date
+Date format "21/04/2021" dd/mm/yyyy
+
+2.Fruit shop project:
+Implement using dictionary
+	-Add fruit
+	-Delete fruit by name
+	-Search fruit by name and rate
+	-Change fruit name and rate
+	-Add to cart(List the fruits with fruit_id->select id->store in cart list)
+	-Display
+	-Display the cart
+Properties: fruit_id,fruit_name,rate,imported_from,import_date,buy_price
+
+
+3.Implement above both questions using functions.
+
+
+
+
