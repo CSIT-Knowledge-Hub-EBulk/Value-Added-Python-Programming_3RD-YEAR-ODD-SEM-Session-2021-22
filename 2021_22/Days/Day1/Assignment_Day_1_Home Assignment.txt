@@ -1,0 +1,7 @@
+num="1,2,3,4,5,6,7,8,9"
+Use above string in below questions:
+1.Perform addition of all numbers in the string
+2.Perform addition of all even number from string
+
+var="Click Open link on the dialog shown by your browser"
+3.Write a code to search substring in above string using while loop.(Take substring from user)
